@@ -1,0 +1,8 @@
+matplotlib
+numpy
+pandas
+gensim
+fitz
+spacy
+sklearn
+nltk
