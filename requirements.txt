@@ -6,3 +6,6 @@ fitz
 spacy
 sklearn
 nltk
+seaborn
+swifter
+langdetect
