@@ -9,3 +9,4 @@ nltk
 seaborn
 swifter
 langdetect
+imbalanced-learn
