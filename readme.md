@@ -1,7 +1,7 @@
 # NLP Jupyter Notebooks repo
 
 ## About this series of notebooks
-This mini-course has been prepared with the aim of showing rather a practical side of the NLP than detailed theoretical aspects. Although some fundamental theory is necessary, notebooks contain many fragments of code ready to be copied & pasted in your project.
+This mini-course has been prepared with the aim of showing rather a practical side of natural language processing (NLP) than detailed theoretical aspects. Although some fundamental theory is necessary, notebooks contain many fragments of code ready to be copied & pasted into your project. The course will give you a good foundation and prepare you to tackle more advanced topics. 
 
 ---
 
