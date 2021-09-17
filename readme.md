@@ -20,7 +20,7 @@ and
 The first 5 notebooks introduce important topics and their implementation using Python and some well-known modules. Notebook 6 presents how to solve a complete NLP classification problem using different techniques and visualizations.
 
 ## Resources
-Each notebook comes with a resources.md file containing sources of used graphics, external code, or datasets. The theoretical side has been developed using the `sklearn `documentation and a fantastic book - Speech and Language Processing by Dan Jurafsky and James H. Martin available [here](https://web.stanford.edu/~jurafsky/slp3/)!
+Each notebook comes with a resources.md file containing sources of used graphics, external code, or datasets. The theoretical side has been developed using the `sklearn` documentation and a fantastic book - Speech and Language Processing by Dan Jurafsky and James H. Martin available [here](https://web.stanford.edu/~jurafsky/slp3/)!
 
 ## Typos & bugs
 If you spot any, feel free to email me: [andrzej.szablewski.20@ucl.ac.uk](mailto:andrzej.szablewski.20@ucl.ac.uk)!
